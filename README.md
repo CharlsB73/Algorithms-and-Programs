@@ -13,29 +13,24 @@ This project contains practical implementations of essential computer science to
 
 ## 🗂️ Repository Structure
 
-### **Arrays (`src/arrays/`)**
+### **Arrays (`src/Arrays/`)**
 Implementations of array handling techniques and utilities:
 - Array manipulation algorithms
 - Custom array handler classes (manejadores de arreglos)
 - Operations for searching, sorting, and transforming array data
 
-### **Classes (`src/classes/`)**
+### **Classes (`src/GeneralClasses{i}/`)**
 Object-oriented implementations and class hierarchies:
 - Custom data structure classes
 - Abstract base classes and interfaces
 - Practical examples of inheritance and polymorphism
 
-### **Applications (`src/applications/`)**
+### **Applications/Tests (`src/apps{i}/`)**
 Practical applications combining multiple concepts:
 - Real-world use cases leveraging arrays, classes, and algorithms
 - Integration of data structures in functional programs
 - Problem-solving demonstrations
 
-### **Memory Maps (`src/mapas de memoria/`)**
-Memory management and visualization:
-- Understanding memory layout and allocation
-- Reference tracking and object lifecycle
-- Visual representations of memory structures during execution
 
 ### **Final Project**
 Capstone project from the semester demonstrating integrated knowledge across all topics covered.
